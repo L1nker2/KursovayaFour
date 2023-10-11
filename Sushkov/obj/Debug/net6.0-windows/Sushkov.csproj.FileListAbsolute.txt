@@ -1,0 +1,194 @@
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.AssemblyInfo.cs
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.exe
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.deps.json
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.runtimeconfig.json
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.pdb
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.CopyComplete
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\refint\Sushkov.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.pdb
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.genruntimeconfig.cache
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\ref\Sushkov.dll
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.AssemblyReference.cache
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.DriversForm.resources
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.MainForm.resources
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.RoutesForm.resources
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.ScheduleForm.resources
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.GenerateResource.cache
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.AssemblyInfoInputs.cache
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.AssemblyInfo.cs
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.CoreCompileInputs.cache
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.dll
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\refint\Sushkov.dll
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.pdb
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.exe
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.deps.json
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.runtimeconfig.json
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.pdb
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Azure.Core.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Azure.Identity.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Memory.Data.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+Y:\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.CopyComplete
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.genruntimeconfig.cache
+Y:\Sushkov\Sushkov\obj\Debug\net6.0-windows\ref\Sushkov.dll
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.DriversForm.resources
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.MainForm.resources
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.Properties.Resources.resources
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.RoutesForm.resources
+C:\Users\USER\source\repos\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.ScheduleForm.resources
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.exe
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.deps.json
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.runtimeconfig.json
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Sushkov.pdb
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.DriversForm.resources
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.MainForm.resources
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.Properties.Resources.resources
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.RoutesForm.resources
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.ScheduleForm.resources
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.AssemblyInfo.cs
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.csproj.CopyComplete
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\refint\Sushkov.dll
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.pdb
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\Sushkov.genruntimeconfig.cache
+C:\Users\Roman\Desktop\Новая папка\Sushkov\Sushkov\obj\Debug\net6.0-windows\ref\Sushkov.dll
